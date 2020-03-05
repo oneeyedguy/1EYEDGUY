@@ -1,0 +1,34 @@
+﻿<!doctype html>
+<html>
+<body>
+<p><strong>VOLUME</strong></p>
+<input type="range">
+<br>
+<p><strong><em>COLOR</em></strong></p>
+<input type="color">
+<br>
+<p><strong>DATE</strong></p>
+<input type="date">
+<br>
+<p>fill in the blank</p>
+<input type="password" placeholder= "password">
+<br>
+<br>
+<div style ="background-color:lightblue">
+<br>
+<p><strong>VOLUME</strong></p>
+<input type="range">
+<br>
+<p><strong><em>COLOR</em></strong></p>
+<input type="color">
+<br>
+<p><strong>DATE</strong></p>
+<input type="date">
+<br>
+<p>fill in the blank</p>
+<input type="password" placeholder= "password">
+<br>
+<br>
+</div>
+</body>
+</html>html>
